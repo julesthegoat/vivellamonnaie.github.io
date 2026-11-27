@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" role="img" aria-labelledby="title desc"><title id="title">Illustration fictive — inspiration rap</title><desc id="desc">Affiche graphique abstraite avec silhouette anonyme et bouteille stylisée, sans représenter une personne réelle.</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1d281e"/><stop offset="1" stop-color="#87602c"/></linearGradient><linearGradient id="b" x2="0" y2="1"><stop stop-color="#839d47"/><stop offset="1" stop-color="#26351b"/></linearGradient></defs><path fill="url(#bg)" d="M0 0h720v960H0z"/><circle cx="560" cy="180" r="130" fill="#d5a74d" opacity=".8"/><path fill="#111710" d="M0 660q150-130 315-70t405-40v410H0z"/><path fill="#111710" d="M225 700q-45-100-12-204 15-48 61-54l14-85q50-24 97 0l17 87q50 29 59 98l37 203z"/><path fill="#d1a34b" d="M308 443h69v30h-69z"/><path fill="#1b2419" d="M319 375h48v74h-48z"/><path fill="url(#b)" stroke="#d7c890" stroke-width="5" d="M312 445h62l12 52 22 42v245q0 26-28 26h-76q-28 0-28-26V539l22-42z"/><path fill="#e6d5a1" d="M300 562h88v111h-88z"/><text x="344" y="605" text-anchor="middle" fill="#334126" font-family="Georgia,serif" font-size="21" font-weight="bold">56</text><text x="344" y="636" text-anchor="middle" fill="#334126" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">HERBES</text><text x="48" y="90" fill="#f2ead7" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">ÉTUDE VISUELLE · FICTION</text><text x="48" y="870" fill="#f2ead7" font-family="Georgia,serif" font-size="36">Énergie & caractère</text><text x="48" y="910" fill="#e1c47e" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">SILHOUETTE IMAGINAIRE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">Affiche fictive inspirée de l’énergie du rap — MC Pao</title>
+  <desc id="desc">Composition graphique originale avec une silhouette anonyme de scène, des ondes sonores et une bouteille stylisée. Ce visuel ne représente pas MC Pao et ne suggère aucune association officielle.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#18121d"/><stop offset=".55" stop-color="#40202b"/><stop offset="1" stop-color="#bd552d"/></linearGradient>
+    <linearGradient id="beam" x2="0" y2="1"><stop stop-color="#f3bb62" stop-opacity=".8"/><stop offset="1" stop-color="#f3bb62" stop-opacity="0"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="0"><stop stop-color="#6c3218"/><stop offset=".45" stop-color="#bd6b2b"/><stop offset="1" stop-color="#592815"/></linearGradient>
+    <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#fff" opacity=".14"/></pattern>
+  </defs>
+  <rect width="720" height="960" fill="url(#bg)"/>
+  <path d="M80 0h145l230 690H340zM510 0h80L390 690h-72z" fill="url(#beam)" opacity=".48"/>
+  <circle cx="360" cy="375" r="190" fill="none" stroke="#e6a848" stroke-opacity=".36" stroke-width="2"/>
+  <circle cx="360" cy="375" r="150" fill="none" stroke="#e6a848" stroke-opacity=".22" stroke-width="2"/>
+  <g fill="none" stroke="#f1bd69" stroke-width="5" opacity=".8"><path d="M65 395v-45m22 75V320m22 132V285m22 162v-92m22 70v-51m358 21v-55m22 90V310m22 116v-77m22 48v-32m22 18v-8"/></g>
+  <path d="M257 640c18-95 34-150 52-179 13-21 26-31 50-31s40 10 54 31c18 29 32 84 50 179l35 78H220z" fill="#141416"/>
+  <circle cx="360" cy="370" r="49" fill="#141416"/>
+  <path d="M299 390c25 15 98 15 122 0" fill="none" stroke="#d49b4f" stroke-width="3" opacity=".8"/>
+  <path d="M0 720h720v240H0z" fill="#111311" opacity=".92"/>
+  <text x="52" y="770" fill="#e6aa50" font-family="Arial,sans-serif" font-size="17" letter-spacing="6">INSPIRATION RAP · VISUEL FICTIF</text>
+  <text x="48" y="856" fill="#f2eee5" font-family="Georgia,serif" font-size="74" font-weight="bold">MC PAO</text>
+  <text x="52" y="895" fill="#c9c1b6" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">SILHOUETTE IMAGINAIRE · SANS ENDORSEMENT</text>
+  <g transform="translate(566 655)">
+    <path d="M33 0h36v22l12 16v132c0 12-9 21-21 21H22c-12 0-21-9-21-21V38l12-16V0h20" fill="url(#glass)" stroke="#e4b45c" stroke-width="3"/>
+    <path d="M26 0h50v24H26z" fill="#17351f" stroke="#e4b45c" stroke-width="2"/>
+    <rect x="8" y="75" width="68" height="67" rx="3" fill="#d5bf79"/>
+    <text x="42" y="97" text-anchor="middle" fill="#20351d" font-family="Arial,sans-serif" font-size="7" font-weight="bold">JÄGERMEISTER</text>
+    <path d="M42 103l9 12-9 12-9-12z" fill="#6c241e"/>
+    <text x="42" y="136" text-anchor="middle" fill="#20351d" font-family="Arial,sans-serif" font-size="6">ILLUSTRATION</text>
+  </g>
+  <rect width="720" height="960" fill="url(#grain)"/>
+  <path d="M28 28h664v904H28z" fill="none" stroke="#e6aa50" stroke-opacity=".65" stroke-width="2"/>
+</svg>
